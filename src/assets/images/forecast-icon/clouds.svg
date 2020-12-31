@@ -1,0 +1,20 @@
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="25.5826844%" y1="9.15421196%" x2="77.1748494%" y2="83.6659307%" id="linearGradient-1">
+            <stop stop-color="#F9D423" offset="0%"></stop>
+            <stop stop-color="#F89C00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EFEFEF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Small-Icon" transform="translate(-308.000000, -243.000000)">
+            <g id="Cloud-sun" transform="translate(308.000000, 268.000000)">
+                <ellipse id="椭圆形" fill="url(#linearGradient-1)" cx="195.5" cy="57" rx="56.5" ry="57"></ellipse>
+                <path d="M94.3157895,205 L94.3161189,204.982102 C93.7050031,204.994016 93.0924347,205 92.4784689,205 C41.4040208,205 0,163.586339 0,112.5 C0,61.4136606 41.4040208,20 92.4784689,20 C126.355089,20 155.977308,38.2194979 172.08518,65.3963922 C176.447222,64.5495251 180.956512,64.1059603 185.569378,64.1059603 C224.467136,64.1059603 256,95.6461654 256,134.55298 C256,172.845336 225.455275,204.001927 187.406721,204.976495 L187.406699,205 L94.3157895,205 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="155px" viewBox="0 0 215 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状结合</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M79,155 L79.0008938,154.985757 C78.5017366,154.995238 78.0014244,155 77.5,155 C34.6979319,155 0,120.302068 0,77.5 C0,34.6979319 34.6979319,0 77.5,0 C106.310475,0 131.449157,15.7208096 144.805741,39.0521216 C148.42861,38.3615212 152.171725,38 156,38 C188.5848,38 215,64.1913421 215,96.5 C215,128.477261 189.123913,154.462057 157.000717,154.991755 L157,155 L79,155 Z" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

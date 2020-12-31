@@ -1,0 +1,16 @@
+<svg width="150px" height="120px" viewBox="0 0 150 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="25.1486073%" y1="9.15421196%" x2="77.6579484%" y2="83.6659307%" id="linearGradient-1">
+            <stop stop-color="#F9D423" offset="0%"></stop>
+            <stop stop-color="#F89C00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="url(#linearGradient-1)" cx="115" cy="33" r="33"></circle>
+        <path d="M55.2631579,120 L55.2638762,119.989444 C54.9056263,119.996471 54.5465244,120 54.1866029,120 C24.2601685,120 0,95.5995189 0,65.5 C0,35.4004811 24.2601685,11 54.1866029,11 C74.0361555,11 91.3929024,21.7346993 100.831118,37.7469923 C103.387359,37.2480674 106.029367,36.986755 108.732057,36.986755 C131.523713,36.986755 150,55.5699029 150,78.4933775 C150,101.054796 132.102737,119.411908 109.808694,119.986149 L109.808612,120 L55.2631579,120 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>
